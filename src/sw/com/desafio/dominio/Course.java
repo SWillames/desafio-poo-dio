@@ -4,6 +4,9 @@ public class Course extends Content{
 
     private int workload;
 
+    public Course(){
+    }
+
     public int getWorkload() {
         return workload;
     }

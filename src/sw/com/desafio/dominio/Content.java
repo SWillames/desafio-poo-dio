@@ -2,7 +2,7 @@ package sw.com.desafio.dominio;
 
 public abstract class Content {
 
-    protected static final double XP_STANDARD = 10;
+    protected static final double XP_STANDARD = 10d;
 
     private String title;
     private String description;
